@@ -1,6 +1,6 @@
-# React + Vite
+# Per Scholas Lab 320.7 - React Movie Search
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Followed the guided lab instructions, added some comments for my own understanding of the material. 
 
 Currently, two official plugins are available:
 
