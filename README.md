@@ -1,5 +1,7 @@
 # Per Scholas Lab 320.7 - React Movie Search
 
+[Demo](https://jordles.github.io/Per-Scholas-Lab-320.7/)
+
 Followed the guided lab instructions, added some comments for my own understanding of the material. 
 
 Currently, two official plugins are available:
