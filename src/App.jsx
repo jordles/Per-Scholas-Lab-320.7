@@ -7,8 +7,7 @@ import Form from "./components/Form";
 
 function App() {
   // Constant with your API Key
-  const apiKey = "aec385e";
-
+  const apiKey = import.meta.env.VITE_API_KEY
   // State to hold movie data
   const [movie, setMovie] = useState(null);
 
